@@ -94,21 +94,21 @@ projects:
         link: "https://play.google.com/store/apps/details?id=com.jimemm.pharmacytracker"
         tagline: "A simple easy-to-use application to track medicines at in-home pharmacy."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Unity VR Smartphone Game
+        link: "https://drive.google.com/drive/folders/1uGkS43CFvUnaZhxug1L_tFHd6dew53PH?usp=sharing"
+        tagline: "VR game without controller"
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Unity AR Application
+        link: "https://drive.google.com/drive/folders/1dFqHMC8zZ-mHHIJ1isL5n8kxIsP97gfF?usp=sharing"
+        tagline: "AR "
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Tools for personal use
+        link: "https://jimemm-templates.000webhostapp.com/tools/"
+        tagline: "A responsible webpage/apk for my needs using React Native"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Coffee & Restaurant QR code Menus
+        link: "jimemm-templates.000webhostapp.com/qr_code_menus"
+        tagline: "Simple PHP / HTML / CSS / Javascript Webpages, that contains menu for cafeterias and restaurants"
 
 skills:
     title: Skills &amp; Proficiency
