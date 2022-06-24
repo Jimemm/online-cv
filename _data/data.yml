@@ -111,6 +111,31 @@ projects:
         tagline: "Simple PHP / HTML / CSS / Javascript Webpages, that contains menu for cafeterias and restaurants"
 
 skills:
+    title: Soft Skills
+
+    toolset:
+      - name: Teamwork
+        #level: 99%
+
+      - name: Leadership
+        #level: 99%
+
+      - name: Communication
+        #level: 98%
+
+      - name: Time Managment
+        #level: 96%
+
+      - name: Problem Solving
+      
+      - name: Positivity
+      
+      - name: Stress management 
+      
+      - name: Sociability 
+
+        
+skills:
     title: Skills &amp; Proficiency
 
     toolset:
