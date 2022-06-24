@@ -127,13 +127,17 @@ skills:
         level: 96%
 
       - name: Problem Solving
+        level: 99%
       
       - name: Positivity
+        level: 99%
       
       - name: Stress management 
-      
+        level: 99%
+        
       - name: Sociability 
-
+        level: 99%
+        
         
 skills:
     title: Skills &amp; Proficiency
