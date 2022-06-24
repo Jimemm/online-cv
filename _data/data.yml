@@ -88,13 +88,11 @@ experiences:
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Since my first year at university, I have been involved in various projects. Some of them were created in the context of university requirements while others for personal reasons.
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Pharmacy Tracker (Android Application)
+        link: "https://play.google.com/store/apps/details?id=com.jimemm.pharmacytracker"
+        tagline: "A simple easy-to-use application to track medicines at in-home pharmacy."
 
       - title: DevStudio
         link: "#"
