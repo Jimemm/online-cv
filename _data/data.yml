@@ -115,29 +115,20 @@ skills:
 
     toolset:
       - name: Teamwork
-        level: 99%
 
       - name: Leadership
-        level: 99%
 
       - name: Communication
-        level: 98%
 
       - name: Time Managment
-        level: 96%
 
       - name: Problem Solving
-        level: 99%
       
       - name: Positivity
-        level: 99%
       
       - name: Stress management 
-        level: 99%
         
-      - name: Sociability 
-        level: 99%
-        
+      - name: Sociability         
         
 skills:
     title: Skills &amp; Proficiency
