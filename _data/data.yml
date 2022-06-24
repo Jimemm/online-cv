@@ -115,16 +115,16 @@ skills:
 
     toolset:
       - name: Teamwork
-        #level: 99%
+        level: 99%
 
       - name: Leadership
-        #level: 99%
+        level: 99%
 
       - name: Communication
-        #level: 98%
+        level: 98%
 
       - name: Time Managment
-        #level: 96%
+        level: 96%
 
       - name: Problem Solving
       
