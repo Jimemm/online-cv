@@ -65,7 +65,7 @@ experiences:
           - Providing help to students 
           - Solving system problems 
           - Checking and grading exercises
-        Programming Languages: Java, Python 3+
+          - Programming Languages: Java, Python 3+
      - role: Laboratory Assistant
       time: Spring Semester 2017, 2018
       company: CSE, University of Ioannina
@@ -74,7 +74,7 @@ experiences:
           - Equipment maintenance
           - Providing help to students 
           - Checking and grading exercises
-        Analog Circuits: Circuit Designing and Testing
+          - Analog Circuits: Circuit Designing and Testing
     - role: Laboratory Assistant
       time: Spring Semester 2018
       company: CSE, University of Ioannina
@@ -82,7 +82,7 @@ experiences:
         Laboratory Assistant at "Introduction to Programming"
           - Providing help to students 
           - Solving system problems 
-        Programming Languages: Python 3+
+          - Programming Languages: Python 3+
 projects:
     title: Projects
     intro: >
