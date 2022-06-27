@@ -107,7 +107,7 @@ projects:
         tagline: "A responsible webpage/apk for my needs using React Native"
 
       - title: Coffee & Restaurant QR code Menus
-        link: "jimemm-templates.000webhostapp.com/qr_code_menus"
+        link: "https://jimemm-templates.000webhostapp.com/qr_code_menus"
         tagline: "Simple PHP / HTML / CSS / Javascript Webpages, that contains menu for cafeterias and restaurants"
 
 skills:
