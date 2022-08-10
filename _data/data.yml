@@ -44,21 +44,21 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: >
-      In recent years I have worked on various projects as a self-employed person. 
+    summary: 
+      "In recent years I have worked on various projects as a self-employed person.
       I have participated in volunteered as a laboratory assistant at the University of Ioannina and participated in the technical support team. 
-      I like to discover new skills and gain knowledge. 
-      My goal is to constantly evolve.
+      I like to discover new skills and gain knowledge. \n 
+      My goal is to constantly evolve."
       
 education:
     - degree: Computer Science & Engineering
       university: University of Ioannina
       time: 2015 - present
-      details: >
-         Excellent performance in:
-          • Graphs & Algorithms
-          • Programming Languages
-          • Digital Circuits
+      details: 
+         "Excellent performance in: \n
+          • Graphs & Algorithms \n 
+          • Programming Languages \n 
+          • Digital Circuits"
  
 experiences:
     - role: Laboratory Assistant
