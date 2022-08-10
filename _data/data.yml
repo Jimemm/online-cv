@@ -54,11 +54,11 @@ education:
     - degree: Computer Science & Engineering
       university: University of Ioannina
       time: 2015 - present
-      details: |
+      details: >
          Excellent performance in:
-             - Graphs & Algorithms
-             - Programming Languages
-             - Digital Circuits
+             * Graphs & Algorithms
+             * Programming Languages
+             * Digital Circuits
  
 experiences:
     - role: Laboratory Assistant
