@@ -30,7 +30,7 @@ sidebar:
     interests:
       - item: >
           3d Modeling
-          https://www.printables.com/social/315299-jimemm/about
+          (https://www.printables.com/social/315299-jimemm/about)
         link: https://www.printables.com/social/315299-jimemm/about
 
       - item: Woodworking & Ironworking
@@ -54,11 +54,11 @@ education:
     - degree: Computer Science & Engineering
       university: University of Ioannina
       time: 2015 - present
-      details: |
-         ### Excellent performance in:
-             * Graphs & Algorithms
-             * Programming Languages
-             * Digital Circuits
+      details: >
+         Excellent performance in:
+          • Graphs & Algorithms
+          • Programming Languages
+          • Digital Circuits
  
 experiences:
     - role: Laboratory Assistant
