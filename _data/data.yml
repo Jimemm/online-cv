@@ -28,7 +28,9 @@ sidebar:
         level: Advanced
 
     interests:
-      - item: 3d Modeling
+      - item: >
+          3d Modeling
+          https://www.printables.com/social/315299-jimemm/about
         link: https://www.printables.com/social/315299-jimemm/about
 
       - item: Woodworking & Ironworking
@@ -42,7 +44,7 @@ sidebar:
 
 career-profile:
     title: Career Profile
-    summary: |
+    summary: >
       In recent years I have worked on various projects as a self-employed person. 
       I have participated in volunteered as a laboratory assistant at the University of Ioannina and participated in the technical support team. 
       I like to discover new skills and gain knowledge. 
@@ -109,27 +111,7 @@ projects:
       - title: Coffee & Restaurant QR code Menus
         link: "https://jimemm-templates.000webhostapp.com/qr_code_menus"
         tagline: "Simple PHP / HTML / CSS / Javascript Webpages, that contains menu for cafeterias and restaurants"
-
-skills:
-    title: Soft Skills
-
-    toolset:
-      - name: Teamwork
-
-      - name: Leadership
-
-      - name: Communication
-
-      - name: Time Managment
-
-      - name: Problem Solving
-      
-      - name: Positivity
-      
-      - name: Stress management 
-        
-      - name: Sociability         
-        
+               
 skills:
     title: Skills &amp; Proficiency
 
