@@ -54,11 +54,18 @@ education:
     - degree: Computer Science & Engineering
       university: University of Ioannina
       time: 2015 - present
-      details: 
-         "Excellent performance in: \n
-          • Graphs & Algorithms \n 
-          • Programming Languages \n 
-          • Digital Circuits"
+      details: |
+        Thesis (on Progress) : "Stereotyping Bias in Google Search Engine"
+        Supervisor: Dr. Panayiotis Tsaparas
+          - Web automation (Python + Selenium)
+          - GUI Design (Tkinter interface)
+          - Data analysis (Python: pandas, numpy)
+          - Jupyter Notebook 
+
+        Excellent performance in: 
+          - Graphs & Algorithms  
+          - Programming Languages  
+          - Digital Circuits"
  
 experiences:
     - role: Laboratory Assistant
