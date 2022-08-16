@@ -66,6 +66,16 @@ education:
           - Graphs & Algorithms  
           - Programming Languages  
           - Digital Circuits"
+
+        Most Demanding Projects Developed:
+          - Journaling the FAT filesystem of Linux. (C) Class: Operating Systems
+          - Build Search Engine for Wikipedia articles (Java + Java FX) Class: Information Retrieval
+          - Build LaTeX Editor (Java + Swing) Class: Software Development
+          - Create a full functional Compiler for a custom programming language. (Python) Class: Compilers
+          - Clasterization and analysis of large data. (Python) Class: Data Mining
+          - Develop VR & AR Smartphone Games and Tools. (Unity) Class: Virtual, Augmented, Mixed Reallity
+          - Reformat an Existing Statistic Analysis Software based on Speciffic Pattern Design (Java + Swing) Class: Software Engineering
+
  
 experiences:
     - role: Laboratory Assistant
@@ -94,6 +104,16 @@ experiences:
          - Providing help to students 
          - Solving system problems 
          - Programming Languages: Python 3+
+    - role: Tutor in Python, Java, C++, Unity, Android Native
+      time: Spring 2018-2021
+      company: Self Employed
+      details: |
+        - Core knowledge of the programming languages (Python 3+ / Java / XML / C++ / C#)
+        - Databases (based on student needs) (SQlite3, Firebase, MongoDB)
+        - Object Orientation Programming principles and logic (Python 3+, Java, C#)
+        - Python libraries (NumPy, NetworkX, Math, Matplotlib)
+
+
 projects:
     title: Projects
     intro: >
@@ -171,6 +191,12 @@ skills:
 
       - name: HTML5 & CSS
         level: 96%
+
+      - name: C / C++
+        level: 94%
+
+      - name: C#
+        level: 94%
 
       - name: React Native
         level: 80%
