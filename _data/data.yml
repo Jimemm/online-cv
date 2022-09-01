@@ -143,6 +143,10 @@ projects:
 publications:
     title: Licenses & Certifications
     papers:
+      - title: React Native - The Practical Guide [2022]
+        link: "https://www.udemy.com/certificate/UC-1a70c906-064b-4bfc-8472-562ea409be20/"
+        authors: Udemy
+        conference: Issued Aug 2022
       - title: • HTML, CSS, and Javascript for Web Developers
         link: "https://www.coursera.org/account/accomplishments/certificate/GATAG845YZYP"
         authors: Coursera
